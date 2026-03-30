@@ -25,4 +25,4 @@ If you are a strong builder with Python, Linux, cloud, and systems experience, r
   
 
 ## Website
-[Visit NirogiAI](https://nirogiai.com)
+[Visit NirogiAI](https://nirogiai.com) Not yet available to public.
