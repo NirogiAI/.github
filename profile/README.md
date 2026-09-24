@@ -1,28 +1,31 @@
 # NirogiAI
 
-NirogiAI is building AI-enabled healthcare infrastructure for Sri Lanka.
+**NirogiAI (Private) Limited** builds employer-paid primary care for Sri Lanka.
 
-We are developing a cloud-native platform that connects patients, diagnostics, and specialist physicians through secure medical data workflows, intelligent routing, and production-grade AI systems.
+An employee describes their symptoms in our app, our AI prepares the case, and an SLMC-registered medical officer reviews it, consults by video where needed, orders tests and prescribes. AI assists, doctors decide.
 
-## What we build
-- Healthcare AI workflows
-- Python backend services
-- LLM and RAG systems
-- Secure medical data pipelines
-- Cloud-native infrastructure
+## What we run
 
-## Focus areas
-- Clinical decision support
-- Specialist routing
-- Medical document and imaging workflows
-- Scalable healthcare platforms
+- Patient apps: a progressive web app and a native Android app, in English, Sinhala and Tamil
+- Web portals for medical officers, specialists, diagnostic centres, administration, finance and customer service
+- A physician registry and workforce portal for private GPs and retired government doctors who work sessions with us
+- Clinical workflows: triage, video consultations, lab orders with partner diagnostic centres, prescriptions and referrals
 
-## Hiring
-We are building our founding engineering team in Sri Lanka.
+## How we work
 
-If you are a strong builder with Python, Linux, cloud, and systems experience, reach out:
-- Email: founders@nirogiai.com
-  
+- Every clinical decision is made by a registered doctor, never by a model
+- Built for Sri Lanka's Telemedicine Guidelines 2024 and the Personal Data Protection Act No. 9 of 2022
+- Documented clinical governance: credentialing, clinical audit, incident review and complaint handling
+- Health data is held under written retention and access rules, with an audit trail
 
-## Website
-[Visit NirogiAI](https://nirogiai.com) Not yet available to public.
+## Working with us
+
+We are building our engineering team in Sri Lanka.
+
+Our next phase of work adds Python services and retrieval-augmented AI, integrated with the platform we already run in production. We would like to hear from engineers who are strong in Python, data pipelines and applied LLM work, and who enjoy building carefully in a regulated field.
+
+Write to **founders@nirogiai.com**.
+
+## Links
+
+- [nirogiai.com](https://nirogiai.com)
